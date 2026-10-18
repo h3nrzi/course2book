@@ -50,7 +50,7 @@ These deductions apply the evidence to the PRD's fidelity and visible-uncertaint
 
 | Candidate | Consequence for a future contract |
 | --- | --- |
-| Plain transcript text | Avoids subtitle grammar, but interpretation of handwritten times/headings/speaker labels needs a declared boundary. Untimed text must remain usable without invented timing. |
+| Plain transcript text | Avoids subtitle grammar, but interpretation of handwritten times/headings/speaker labels needs a declared boundary. If untimed text is accepted, review locations cannot depend on invented timing. |
 | SRT | A named accepted dialect and explicit handling of deviations would be more honest than promising compatibility with every `.srt` file. Consumer-specific UTF-8 restrictions cannot be generalized to all inputs. |
 | WebVTT | Has a precise reference grammar and richer semantics to preserve or explicitly exclude. Conformance checking and tolerant reading answer different questions. |
 
