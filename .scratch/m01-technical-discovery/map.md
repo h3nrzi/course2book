@@ -20,7 +20,7 @@ Resolve and record all technical decisions necessary to write an implementable M
 
 ## Decisions so far
 
-<!-- No technical tickets resolved during initial charting. Add only named links and one-line gists of resolved tickets. -->
+- [Establish Agent Skill runtime capabilities and constraints](issues/01-agent-skill-runtime-evidence.md): Documented and observed runtime capabilities support repository-local skills; domain contracts, approval preservation, and recovery guarantees remain project decisions.
 
 ## Not yet specified
 
