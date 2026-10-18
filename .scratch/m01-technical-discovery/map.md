@@ -21,6 +21,7 @@ Resolve and record all technical decisions necessary to write an implementable M
 ## Decisions so far
 
 - [Establish Agent Skill runtime capabilities and constraints](issues/01-agent-skill-runtime-evidence.md): Documented and observed runtime capabilities support repository-local skills; domain contracts, approval preservation, and recovery guarantees remain project decisions.
+- [Establish transcript format and preservation constraints](issues/02-transcript-format-evidence.md): Compared plain text, SRT, and WebVTT preservation limits; initial support remains undecided and actual corpus behavior is unobserved.
 
 ## Not yet specified
 
